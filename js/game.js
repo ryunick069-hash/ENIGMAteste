@@ -9,6 +9,6 @@ function verificar(respostaCorreta, proximaPagina){
     if(resposta === respostaCorreta){
         window.location.href = proximaPagina;
     }else{
-        alert("Resposta incorreta");
+        alert("Incorreto.");
     }
 }
