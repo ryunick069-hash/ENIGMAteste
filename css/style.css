@@ -1,9 +1,4 @@
 body{
-    background:black;
-    color:#00ff00;
-    font-family:monospace;
-    text-align:center;
-
     /* From Uiverse.io by whoisyourdeadie */ 
 .matrix-container {
   position: relative;
@@ -11,6 +6,8 @@ body{
   height: 100%;
   background: #000;
   display: flex;
+  font-family:monospace;
+  text-align:center;
 }
 
 .matrix-pattern {
